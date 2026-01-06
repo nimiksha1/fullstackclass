@@ -1,0 +1,10 @@
+jsx=used to write html inside js
+extension=es7,reactjs code snippets,
+rfce
+child=>appjsx=>indexhtml=> with the help of mainjsx
+to perform js inside html use {}
+useeffect =perform sideeffect in a component->it run after sideeffects happen
+useeffect perform  for all side effect so we use ->
+[]= 1 without dependency array->obey all
+2 empty dependency array=>obey no one
+3 with dependency=obey only for count2(selectively)
